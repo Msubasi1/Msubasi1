@@ -13,6 +13,9 @@
 <!-- [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mertcobanov)-->
 [![Mail Badge](https://img.shields.io/badge/subasimuhammet01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:subasimuhammet01@gmail.com)](mailto:subasimuhammet01@gmail.com)
 
+### Here are some projects that I have been working on it. 
+- Garbage Town
+- Disease Detection
 <!--
 **Msubasi1/Msubasi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
