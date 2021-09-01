@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=MSubasi1&show_icons=true">
 
-# Merhaba, ben Muhammet Subasi! 
+# I am Muhammet Subasi! 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p> -->
 
 [![](https://img.shields.io/github/followers/Msubasi1?style=social)](https://www.github.com/Msubasi1)
