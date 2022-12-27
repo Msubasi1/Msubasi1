@@ -15,7 +15,7 @@
 # 
 
 
-### ⚡ Here are some projects that I have been working on it. Please visit Repositories and Projects tabs in navigation bar. 
+### ⚡ Here are some projects that I have been working on it. Please visit Repositories and Projects tabs from navigation bar. 
 <!--
 **Msubasi1/Msubasi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
