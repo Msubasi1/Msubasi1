@@ -83,6 +83,14 @@ PyTorch CNN coursework: (1) image colorization on the CIFAR-10 Horse subset usin
 
 ---
 
+### 🚧 Work in progress
+
+#### 💔 [Kındar](https://github.com/Msubasi1/Kindar)
+**The anti-Tinder.** A Flutter social app where the metric is inverted: users swipe right to *dislike*, the most-disliked profiles climb a public leaderboard, and achievements reward milestones like "100 dislikes in a single day." Card-swipe UI, post-match chat, Firebase backend. Manifest-only public repo while the source tree is in active development.
+`Flutter` · `Dart` · `Riverpod` · `go_router` · `Firebase (Auth + Firestore)` · `flutter_card_swiper` · `Google / Apple Sign-In`
+
+---
+
 ### 🎯 Undergraduate projects
 
 - **[Disease Detection Application](https://github.com/Msubasi1/Disease-Detection-Application-using-Machine-Learning)** — Streamlit web app predicting four diseases from questionnaire data with SelectKBest + Logistic Regression (~97% accuracy). `Python` · `scikit-learn` · `Streamlit`
