@@ -4,7 +4,7 @@
 
 # I'm Muhammet Subaşı
 
-📍 Based in Istanbul, Turkey · interested in **machine learning, data science, and software engineering**.
+📍 Based in Turkey · interested in **machine learning, data science, and software engineering**.
 
 I'm a Computer Engineering graduate from **Hacettepe University**. Most of my public work here grew out of coursework — small ML projects, data-structure assignments, and the occasional game — that I've kept polishing as I learn. I enjoy turning messy data into something useful, and I'm always happy to chat about a new project, a hard problem, or a good paper.
 
